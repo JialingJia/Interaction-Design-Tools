@@ -52,7 +52,7 @@ Patterns and Information hierarchy
     experience-If it is a skin-care website, for a female student, this website needs to be classified according to efficacy of skin-care products: acne-moisturizing-whitening; for senior skin-care bloggers, it may be classified by ingredients: tea tree essential oil-hyaluronic acid-vitamin C
     In taxonomy, the most important thing is not to think about how you need to classify, but to think about what you want to achieve through classification, how do you want users to understand your product?
 
-    choreography:IKEA
+    choreography: IKEA
 
     Scenarios-booking.com Fun things to do, why they use, when they use, and how they use
     Hierarchy-

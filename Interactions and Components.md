@@ -6,7 +6,7 @@ Wearable: finger gestures, voice input
 television-based: remote control, voice input
 AR/VR: hand or finger gestures
 
-#### Mouse
+#### `Mouse`
 hovering (pointing), clicking, scrolling, dragging
 
 #### Keyboard
@@ -25,7 +25,7 @@ active and passive validation
 
 ## Menus
 menus: different styles of menus, top, side, entrance to other pages, how to use them in a proper way?
-toolbars: butcon, refers to immediate access to function, tooltips, state-indicated  
+toolbars: butcon, refers to immediate access to function, tooltips, state-indicated
 dialogs: when to use them on a web application, float tips
 
 ## Errors/Alerts/Confirmation

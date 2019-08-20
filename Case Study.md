@@ -11,8 +11,8 @@
 | Mail: *Butcon-Filter* | down-left corner  | activate *current filter condition* |
 | Mail: *Butcon-New Message* | down-left corner  | open *New  Message modal view* |
 | Outlook: *Butcon-All Accounts* | upper-left corner  | slide to *All Accounts menu* |
-| Outlook: *Segment Controls-Focused, Other* | left corner on the second row  | Toggle different content|
-| Outlook: *Toolbars-Butcons-Inbox, Search, Calendar* | bottom  | Toggle different tools|
+| Outlook: *Segment Controls-Focused, Other* | left corner on the second row  | toggle different content|
+| Outlook: *Toolbars-Butcons-Inbox, Search, Calendar* | bottom  | toggle different tools|
 | Outlook: *Butcon-Mew Message* | upper-right corner  | open *New Message page* |
 | Outlook: *Butcon-Filter*   | right corner on the third row | drop down *list* |
 | Gmail: *Hamburger-Menu*  | upper-left corner in the search bar | slide to *Gmail menu* |

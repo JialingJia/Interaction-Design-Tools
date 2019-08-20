@@ -1,4 +1,4 @@
-# Comparison among IOS, Material, and Fluent
+# Benchmark
 
 ### Benchmarking Mail, Gmail, and Outloook
 
@@ -30,10 +30,10 @@
 | Gmail: *Edit mode* | hold on one mail | activate navigation bar to *Edit status* |
 | Gmail: *Mail options*  | right or left swipe on mail | unfold and activate *mail options*  |
 
-##### Navigation of the apps
+#### Navigation of the apps
 Shared Patterns of Navigation: *Hierarchy*, *lateral*, and *content driven*
 
-###### Hierarchy
+##### Hierarchy
 
 | Mail | Outlook | Gmail
 | --- | --- | ---
@@ -44,7 +44,7 @@ Should we use hamburger menu in apps design?
 
 > IOS: Hamburger menu is not visiable, people don't know where they can go...The other thing the hamburger menus quite frankly do badly is that they don’t play nicely with back buttons...And finally, the downside of being able to show a lot of options is that you can show a lot of options. Is that you will show a lot of options. The potential for bloat and misuse is tremendous.
 
-###### Lateral
+##### Lateral
 
 | Apps | Hierachy-1 | Hierachy-2 | Hierachy-3
 | --- | --- | --- | ---
@@ -52,5 +52,5 @@ Should we use hamburger menu in apps design?
 | Outlook | different mailboxes / help&feedback / account settings | inbox mails / search / calendar | mail details |
 | Gmail | different content / account settings / help&feedback | inbox mails | mail details |
 
-###### Information Architecture
+##### Information Architecture
 ![Benchmark](https://raw.githubusercontent.com/JialingJia/Interaction-Design-Tools/master/images/Benchmark_Information_Architecture.png "Benchmark_Information_ Architecture")

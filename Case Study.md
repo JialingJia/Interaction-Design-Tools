@@ -1,10 +1,10 @@
-# Benchmark
+# Case Study
 
-### Benchmarking Mail, Gmail, and Outloook
+### Benchmark: Mail, Outlook, and Gmail
 
-##### Information Architecture of the Mail List
+##### Interactions and Components
 
-| Cases | Position | Actions
+| Home Page (Control-Content) | Position | Actions
 | --- | --- | ---
 | Mail: *Button-Mailboxes* | upper-left corner | slide to *Mailboxes page* |
 | Mail: *Button-Edit*   | upper-right corner  | activate toolbars to *Edit status* |

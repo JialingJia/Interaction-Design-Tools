@@ -53,4 +53,4 @@ Should we use hamburger menu in apps design?
 | Gmail | different content / account settings / help&feedback | inbox mails | mail details |
 
 ###### Information Architecture
-![Benchmark](/assets/images/philly-magic-gardens.jpg "Benchmark_Information_ Architecture")
+![Benchmark](https://raw.githubusercontent.com/JialingJia/Interaction-Design-Tools/master/images/Benchmark_Information_Architecture.png "Benchmark_Information_ Architecture")

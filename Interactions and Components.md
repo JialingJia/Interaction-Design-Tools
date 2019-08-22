@@ -1,4 +1,4 @@
-# Interactions and Componments
+# Interactions and Components
 ## User Interactions and Manipulations
 Computer-based: mouse, keyboard
 Touchscreen: finger gestures
@@ -6,7 +6,7 @@ Wearable: finger gestures, voice input
 television-based: remote control, voice input
 AR/VR: hand or finger gestures
 
-#### `Mouse`
+#### Mouse
 hovering (pointing), clicking, scrolling, dragging
 
 #### Keyboard

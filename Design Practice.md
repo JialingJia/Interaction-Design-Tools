@@ -15,4 +15,4 @@ Exercise: Wireframing a series of user flow for a web User Portal, including the
 
 Design examples:
 [Interaction Details example_1](https://raw.githubusercontent.com/JialingJia/Interaction-Design-Tools/master/images/Interaction%20Details%20example_1%403x.png)
-[Interaction Details example_2](https://github.com/JialingJia/Interaction-Design-Tools/blob/master/images/Interaction%20Details%20example_2%403x.png)
+[Interaction Details example_2](https://raw.githubusercontent.com/JialingJia/Interaction-Design-Tools/master/images/Interaction%20Details%20example_2%403x.png)

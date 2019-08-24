@@ -2,19 +2,15 @@
 
 ### Wireframing
 
-#### Content
-
 Design examples:
->[Wireframing_example_1](https://raw.githubusercontent.com/JialingJia/Interaction-Design-Tools/master/images/Wireframing%20example_1%403x.png)
+>[Wireframing_example](https://xd.adobe.com/view/0ca75173-dcad-404c-7f8d-2b5a9d0d9843-7a96/?fullscreen)
 
->[Wireframing_example_2](https://raw.githubusercontent.com/JialingJia/Interaction-Design-Tools/master/images/Wireframing%20example_2%403x.png)
-
-Exercise: Wireframing a series of user flow for a web User Portal, including the process of registration, log-in, and password reset. [example](https://raw.githubusercontent.com/JialingJia/Interaction-Design-Tools/master/images/User%20Login%20and%20Registration%20Process%403x.png)
+Exercise: Wireframing a series of user flow for a web User Portal, including the process of registration, log-in, and password reset [(exercise example)](https://xd.adobe.com/view/acb0732c-ddb9-4380-7b30-aa05ff1759dd-da81/?fullscreen)
 
 
 ### Interaction Details and Documentation
 
 Design examples:
->[Interaction Details_example_1](https://raw.githubusercontent.com/JialingJia/Interaction-Design-Tools/master/images/Interaction%20Details%20example_1%403x.png)
+>[Interaction Details_example](https://xd.adobe.com/view/0ca75173-dcad-404c-7f8d-2b5a9d0d9843-7a96/?fullscreen)
 
->[Interaction Details_example_2](https://raw.githubusercontent.com/JialingJia/Interaction-Design-Tools/master/images/Interaction%20Details%20example_2%403x.png)
+Exercise: design interaction details for the registration, login, and password reset process [(exercise example)](https://yuiv39.axshare.com)

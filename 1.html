@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Descendant vs Child Selector</title>
+  <link rel="stylesheet" type="text/css" href="mystyle.css">
+  <style>
+    section > p {
+      font-family:verdana;
+      font-size:24px;
+    }
+  </style>
+</head>
+<body>
+  <section style="color:blue;text-align:center;">
+    <p> I am the Child Selector</p>
+    <div>
+      <p>I am the Descendant Selector</p>
+    </div>
+    <p>I am the Child Selector</p>
+  </section>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>A Web Page</h1>
+    <p id="demo">A Paragraph</p>
+
+    <button type="button" name="button" onclick="myFunction()">Try it</button>
+
+    <script type="text/javascript">
+      function myFunction() {
+        document.getElementById("demo").innerHTML =
+        "Paragragh Changed";
+      }
+    </script>
+
+    <script type="text/javascript">
+
+    var myCats = {type: "AmericanShorthair",
+            gender: "male",
+            age: 5,
+            fullName : function() {
+              return this.firstName + " " + this.lastName +  "" + this.age
+            } // define the method of an object
+          }; // indexOf() is a built-in method that returns the position of the first occurrence of a specified text in a string
+    </script>
+
+    <script type="text/javascript">
+    var expr = 'Papayas';
+    switch (expr) {
+      case 'Oranges': console.log('Oranges are $0.59 a pound.');
+      break;
+      case 'Mangoes':
+      case 'Papayas': console.log('Mangoes and papayas are $2.79 a pound.'); // expected output: "Mangoes and papayas are $2.79 a pound."
+      break;
+      default: console.log('Sorry, we are out of ' + expr + '.');
+    }
+    </script>
+
+  </body>
+</html>

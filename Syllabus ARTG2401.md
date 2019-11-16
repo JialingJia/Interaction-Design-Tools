@@ -4,9 +4,9 @@
 | Date | Content | Preparation
 | --- | --- | ---
 | Sep 9 | Introducing Interaction Design Workflow |
-| Sep 16 | Design Practice: *Wireframing* |
+| Sep 16 | Design Practice: *Wireframing* | x
 | Sep 23 | Interactions and Components  | x
-| Sep 30 | Design Practice: *Interaction Details and Documentation* |
+| Sep 30 | Design Practice: *Interaction Details and Documentation* | x
 | Oct 7 | Patterns and Information Architecture | x
 | Oct 14 |   |
 | Oct 21 | Design Practice: *Interactive Prototyping* |

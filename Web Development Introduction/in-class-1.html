@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      * {
+        box-sizing:border-box;
+      }
+
+      .left {
+        background-color:#2196F3;
+        padding:20px;
+        float:left;
+        width: 20%;
+      }
+
+      .right{
+        background-color: #f1f1f1;
+        padding:20px;
+        float:left;
+        width:60%;
+      }
+
+      .main{
+        background-color: #4CAF50;
+        padding:20px;
+        float:left;
+        width:20%;
+      }
+
+      @media screen and (max-width:800px) {
+        .left, .main, .right {width:100%;}
+      }
+    </style>
+    <title></title>
+  </head>
+  <body>
+    <h2>Media Queries</h2>
+
+    <p>Resie the browser window, up and down around 800px wide.</p>
+
+    <div class="left">
+      <p>left</p>
+    </div>
+
+    <div class="main">
+      <p>Main Content</p>
+    </div>
+
+    <div class="right">
+      <p>right</p>
+    </div>
+
+  </body>
+</html>

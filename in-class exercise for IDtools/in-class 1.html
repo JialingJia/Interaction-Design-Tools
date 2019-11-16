@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <script type="text/javascript">
+      document.getElementById("demo").innerHTML = "My first JavaScript";
+      function myFunction() {
+        document.getElementById("Demo3").innerHTML = "paragraph changed.";
+      }
+    </script>
+
+    <script src="myScript.js">
+
+    </script>
+
+  </head>
+  <body>
+    <h1>A web page</h1>
+    <p id="Demo3">a paragraph</p>
+    <button type="button" onclick="muFunction()">try it</button>
+
+    <h2>My first Javascript</h2>
+
+    <button type="button" onclick="documnent.getElementById('Demo'). innerHTML = Date ()">Click me to display Date and Time.</button>
+
+    <p id="Demo"></p>
+
+    <h2>what JavaScript can do?</h2>
+
+    <p id="Demo2"> Javascript can change HTML content.</p>
+
+    <button type="button" onclick='document.getElementById("Demo2").innerHTML = "Hello JavaScript"'> Click Me </button>
+
+    <button onclick="document.getElementById('myImage').src=
+    'pic_bulbon.gif'">Turn on the light</button>
+
+    <img id="myImage" src="pic_buloff.gif" style="width:100px"
+    style="width:100px">
+
+    <button type="button" onclick="document.getElementById('myImage').src=
+    'pic_bulboff.gif'">Turn off the light</button>
+
+    <button type="button" onclick="document.getElementById('demo3').style.fontSize='35px'">Click Me</button>
+
+    <script>
+      window.alert(5+6);
+    </script>
+
+    <script>
+      console.log(5+6);
+    </script>
+
+    <script>
+    document.getElementById("Demo").innerHTML =
+    "Hello Dolly!";
+    </script>
+
+    <script>
+      function myFunction() {
+        document.getElementById("demo1").innerHTML="Hello Dolly!";
+        document.getElementById("demo2").innerHTML ="How are you?";
+      }
+    </script>
+
+   <script>
+    /*  var x,y; // I will be executed
+      x = 5 + 6;
+      y= x * 10;
+
+    */
+    </script>
+
+    <h1 id="myH">Hello World!</h1>
+    <p id="myP">I am Houjiang.</p>
+    <button type="button" name="button" onclick="changeContext()">Try it</button>
+
+    <script>
+    function changeContext() {
+      // change heading:
+      document.getElementById("myH").innerHTML = "My First Page";
+      // change paragraph:
+      document.getElementById("myP").innerHTML = "My first paragraph.";
+    }
+    </script>
+
+    <script>
+    var age = 26;
+    var firstName = "Houjiang";
+    var lastName = "Liu";
+    document.getElementById("demo").innerHTML =
+    pi + "<br>" + person + "<br>" + answer;
+    </script>
+
+    <p id="demo"></p>
+    <p id="car"></p>
+
+    <script>
+      var carName = "Audi";
+      document.getElementById("car").innerHTML = carName;
+    </script>
+
+    <script>
+      var person = "John",
+      carName = "Audi",
+      price = 200;
+    </script>
+
+    <p id="john"></p>
+
+    <script>
+      var x = "John" + " " + "Doe" ;
+      document.getElementById("john").innerHTML = x;
+    </script>
+
+    <p id="plus"></p>
+
+    <script>
+      var x = 2 + 3 + "5";
+      document.getElementById("plus").innerHTML = x;
+    </script>
+
+    <p id = "operator"></p>
+
+    <script>
+      var x = 10;
+      x += 5;
+      document.getElementById("operator").innerHTML =
+      x;
+    </script>
+
+    <p id = "demo12"></p>
+
+    <script>
+      var fruits = ["Banana", "Orange", "Apple", "Mango"];
+      document.getElementById("demo12").innerHTML = isArray(fruits);
+
+      function isArray(myArray) {
+        return myArray.constructor.toString().indexOf("Array") >
+        -1;
+      }
+    </script>
+
+    <script>
+    var person = {
+      firstName:"John",
+      lastName: "Doe",
+      age : 50,
+      eyeColor : "blue"
+    };
+    </script>
+
+    <p id="degree transform"></p>
+
+    <script>
+      document.getElementById("degree transform").innerHTML =
+      "The temperature is" + toCelsius(77) + "Celsius";
+
+      function toCelsius(f){
+        return (5/9) * (f-32);
+      }
+    </script>
+
+    <p id="car_name1"></p>
+    <p id="car_name2"></p>
+    <p id="car_name3"></p>
+
+    <script>
+    carName();
+
+      function carName() {
+        var newCar = "Audi";
+        document.getElementById("car_name1").innerHTML =
+        typeof newCar + " " + newCar;
+      }
+
+      document.getElementById("car_name2").innerHTML =
+      typeof newCar;
+
+    </script>
+
+    <p> Objects are groups of variables.</p>
+    <p id="demo14"></p>
+
+    <script>
+      var car = {type:"Fiat",
+      model:"500",
+      color:"white",
+      fullName: function() {
+        return this.firstName + " " + this.lastName;
+      }
+
+
+
+    };
+
+      // create an object:
+      var person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+
+      // display some data from the object:
+      document.getElementById("demo14").innerHTML = person["firstName"] + " is " + person.age + " year old ";
+
+    </script>
+
+    <button type="button" name="button" onclick="this.innerHTML = Date()">The Time is?</button>
+
+    <button type="button" name="button" onclick="displayDate()">The time is?</button>
+
+    <script>
+      function displayDate() {
+        document.getElementById("demo15").innerHTML = Date();
+      }
+    </script>
+
+    <p id="demo15"></p>
+
+    <p id="demo16"></p>
+
+    <p id="demo17"></p>
+
+    <p id="demo18"></p>
+
+    <script>
+    var txt = "dijfsdi1312dfsdf'hello world'";
+      document.getElementById("demo16").innerHTML =
+      txt.length;
+      document.getElementById("demo17").innerHTML =
+      txt.indexOf("hello world");
+
+    var str = {"Apple, Banana, Kiwi", "hello world"};
+    //var res = str.substr(7,6);
+    document.getElementById("demo18").innerHTML =
+    str;
+    </script>
+
+    <button type="button" name="button" onclick="myFunction()">Try it</button>
+    <p id="demo19">Please visit Microsoft!</p>
+
+    <script>
+      function myFunction() {
+      var str = document.getElementById("demo19").innerHTML;
+      var n = str.replace("Microsoft","W3Cschools");
+      document.getElementById("demo19").innerHTML =
+      n;
+      }
+    </script>
+
+    <button type="button" name="button" onclick="changeCase()">Try it</button>
+    <p id="demo20">Hello World!</p>
+
+    <script type="text/javascript">
+    function changeCase() {
+      var text1 = document.getElementById("demo20").innerHTML;
+      var text2 = text1.toLowerCase();
+      document.getElementById("demo20").innerHTML =
+      text2;
+    }
+
+    </script>
+
+    <p id="demo21"></p>
+
+    <script type="text/javascript">
+      var str= "Hello";
+      var arr = str.split("");
+      var i = 0;
+      var text = "";
+      for (i = 0; i < arr.length; i++) {
+        text = text + arr[i] + "<br>"
+      }
+      document.getElementById("demo20").innerHTML = text;
+      var newStr = "Hello, World";
+      var newArr = newStr.split(",");
+      document.getElementById("demo21").innerHTML = newArr;
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
